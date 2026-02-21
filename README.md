@@ -28,11 +28,12 @@
 
 | Algorithm | Best Complexity | Average Complexity | Worst Complexity | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **Bubble Sort** | $O(n)$ | $O(n^2)$ | $O(n^2)$ | ✅ Completed |
-| **Insertion Sort** | - | - | - | ⏳ Coming Soon |
+| **Bubble Sort** | O(n) | O(n^2) | O(n^2) | ✅ Completed |
+| **Insertion Sort** | O(n) | O(n^2) | O(n^2) | ✅ Completed |
+| **Quick Sort** | - | - | - | ⏳ Coming Soon |
+
 
 ---
-
 ## Project Structure
 
 The project follows a clean, modular hierarchy:

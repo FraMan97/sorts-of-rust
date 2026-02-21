@@ -30,7 +30,9 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Bubble Sort** | O(n) | O(n^2) | O(n^2) | ✅ Completed |
 | **Insertion Sort** | O(n) | O(n^2) | O(n^2) | ✅ Completed |
-| **Quick Sort** | - | - | - | ⏳ Coming Soon |
+| **Quick Sort** | O(nlogn) | O(nlogn) | O(n^2) | ✅ Completed |
+| **Selection Sort** | - | - | - | ⏳ Coming Soon |
+
 
 
 ---

@@ -31,11 +31,8 @@
 | **Bubble Sort** | O(n) | O(n^2) | O(n^2) | ✅ Completed |
 | **Insertion Sort** | O(n) | O(n^2) | O(n^2) | ✅ Completed |
 | **Quick Sort** | O(nlogn) | O(nlogn) | O(n^2) | ✅ Completed |
-| **Selection Sort** | O(n^2) | O(n^2) | O(n^2) | ✅ Completed  |
-| **Merge Sort** | - | - | - | ⏳ Coming Soon |
-
-
-
+| **Selection Sort** | O(n^2) | O(n^2) | O(n^2) | ✅ Completed |
+| **Merge Sort** | O(nlogn) | O(nlogn) | O(nlogn) | ✅ Completed |
 
 ---
 ## Project Structure
